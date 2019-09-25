@@ -1,2 +1,3 @@
-# hello-world-java
-Hello World in Java
+# Hello World in Java
+This is a simple Hello World that I created in Java.s
+
